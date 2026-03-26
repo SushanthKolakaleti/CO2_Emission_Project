@@ -124,6 +124,7 @@ The project includes:
 ---
 
 ## 📂 Project Structure
+
 co2-emission-project/
 │
 ├── data/
@@ -140,3 +141,4 @@ co2-emission-project/
 │   └── (model outputs, evaluation metrics)
 │
 └── README.md
+
